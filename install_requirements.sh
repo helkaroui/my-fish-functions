@@ -1,1 +1,1 @@
-sudo apt install -y fish prettyping nmap
+sudo apt install -y fish prettyping nmap figlet

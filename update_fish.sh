@@ -1,1 +1,1 @@
-rsync -avu --delete ./ ~/.config/fish/
+rsync -avu --delete src/ ~/.config/fish/
