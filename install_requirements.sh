@@ -1,2 +1,1 @@
-sudo apt-get install prettyping
-sudo apt-get install nmap
+sudo apt install -y fish prettyping nmap
