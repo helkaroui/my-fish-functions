@@ -1,5 +1,9 @@
 mkdir ~/workspace
+mkdir ~/workspace/3rd-party-projects
+
 mkdir -p ~/.config/fish
+
+
 
 sudo mkdir /apps
 sudo chown $USER:$USER /apps
