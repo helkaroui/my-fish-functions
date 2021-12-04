@@ -1,6 +1,8 @@
 # Aliases
 alias k=kubectl
 alias grpc=grpc-client-cli
+alias kctx=kubectx
+alias kns=kubens
 
 
 # Shortcuts
